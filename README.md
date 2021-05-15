@@ -10,3 +10,5 @@ PC微信机器人之实战分析微信发送xml名片消息call
 ![image](https://user-images.githubusercontent.com/73727649/118345051-9e2c6a00-b564-11eb-8e43-7f6b1a6dfd4a.png)
 今天就讲到这里，后续会写代码实战。
 目前已经实现了大部分功能，运行稳定，比如：发各种消息，接收各种消息，群管，下载文件，加好友，检测僵尸粉等等功能，可提供接口，方便二次开发，欢迎技术交流。
+QQ：2645542961
+![image](https://user-images.githubusercontent.com/73727649/118345121-18f58500-b565-11eb-8c9c-811c8dc06279.png)
